@@ -11,7 +11,7 @@
 	<title>Array Siswa</title>
 </head>
 <body class="bg-light">
-	<div class="container-fluid" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+	<div class="container-fluid">
 		<div class="col-12 col-md-6 m-auto">
 			<h3 class="text-center">Form Nilai Siswa</h3>
 			<hr class="featurette-divider mx-auto">
